@@ -8,3 +8,4 @@
 
 # Module useful for testing
 pytest
+numpy==2.1.0
